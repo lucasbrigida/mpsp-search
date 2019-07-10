@@ -1,4 +1,4 @@
-#### MPSP - BUSCADOR DE DADOS
+## MPSP - BUSCADOR DE DADOS
 
 ### Requerimentos
 
@@ -9,7 +9,7 @@ Node (v10.16.0)
 Se você já possui o node >= v10.16.x, proceda com o(s) comando(s) abaixo:
 
 ```sh
-git clone
+git clone https://github.com/lucasbrigida/mpsp-search.git
 cd mpsp-search
 npm ci
 ```
