@@ -15,7 +15,7 @@
     "ocrad.js": "0.0.1",
     "puppeteer": "^1.18.1",
     "terminal-img": "^1.1.1",
-    "terminal-kit": "^1.28.3",
+    "terminal-kit": "^2.1.8",
     "tesseract.js": "^1.0.19"
   },
   "devDependencies": {
